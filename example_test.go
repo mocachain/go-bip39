@@ -4,7 +4,7 @@ import (
 	"encoding/hex"
 	"fmt"
 
-	"github.com/mocachain/go-bip39"
+	"github.com/tyler-smith/go-bip39"
 )
 
 func ExampleNewMnemonic() {
